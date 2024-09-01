@@ -8,9 +8,9 @@ project "Glad"
 
     files
     {
-        "include/glad/glad.h",
+        "include/glad/gl.h",
         "include/KHR/khrplatform.h",
-        "src/glad.c"
+        "src/gl.c"
     }
 
     includedirs
